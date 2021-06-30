@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: This is My blog
 date: 2021-06-28T20:33:31.458Z
-description: It's a test and it's kinda interesting.
+description: "It's a test and it's kinda interesting.l kjdf lkajdf kldsaj
+  fkldjsa lkfj dlksaj fkdljsa "
 featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
 tags:
